@@ -1,8 +1,8 @@
 import UIKit
 
+let arrayInit = [Int](repeating: 0, count: 3) // [0, 0, 0]
 
 var colors = ["yellow", "red", "white", "purple", "red"]
-
 
 // GETTING INFO
 let first = colors[0]                       // "yellow"
